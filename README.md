@@ -1,9 +1,9 @@
-# HADOOP PYTHON ASSIGNMNT
+# HADOOP MAPREDUCE ASSIGNMeNT
 This is our python big data analytics assignment using Hadoop MapReduce to do the tasks mentioned below on a dataset of 5 million Wikipedia articles.
 
 # Collaborators
 This work was completed with the help of :
-
+@ahtezaz123
 
 
 # Dependancies 
