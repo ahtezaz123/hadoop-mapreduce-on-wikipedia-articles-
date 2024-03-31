@@ -3,7 +3,7 @@ This is our python big data analytics assignment using Hadoop MapReduce to do th
 
 # Collaborators
 This work was completed with the help of :
-@ahtezaz123
+- https://github.com/ahtezaz123
 
 
 # Dependancies 
