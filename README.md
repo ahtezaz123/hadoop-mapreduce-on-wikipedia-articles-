@@ -16,16 +16,16 @@ This work was completed with the help of :
 
 These dependencies can be installed via pip, Python's package manager, using the following commands:
 
-pip install pandas
-pip install nltk
-pip install textblob
+- pip install pandas
+- pip install nltk
+- pip install textblob
 
 Additionally, before running the code, NLTK's data files need to be downloaded. This can be done by running the following Python code after installing NLTK:
 
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
+- import nltk
+- nltk.download('punkt')
+- nltk.download('stopwords')
+- nltk.download('wordnet')
 
 Once these dependencies are installed and the necessary NLTK resources are downloaded, the provided code should execute without any issues.
 
